@@ -1,4 +1,6 @@
-## LinkedIn Scraper 2022
+## LinkedIn Scraper 2023
+
+**Hello. I am Atif Riaz. I am still working on it. Will keep on updating this repository. I start this to reduce the bounce rate of my emails I use for lead generation so emails can better warm up.**
 
 This is the new update concerning the data scraping from [LinkedIn](https://linkedin.com).
 
@@ -11,11 +13,9 @@ This is the new update concerning the data scraping from [LinkedIn](https://link
 - [iPython](https://ipython.org/)
 
 To contribute, you know the story,
-
-- [Fork](https://github.com/yokwejuste/linkedin-scraper/fork)
 - Clone
     - ```
-        git clone https://github.com/<your github username>/linkedin-scraper.git
+        git clone https://github.com/atif-riaz-ar/scrap-email-from-google-search-results.git
         ```
 - Make commits and PRs
     - ```
@@ -41,10 +41,4 @@ To contribute, you know the story,
         python main.py
     ```
 
-    The scraper will automatically login and scrape the data.
-
-You will notice a results.csv file in the root directory, open and see the data. Play around with the code from `varibles.py` modify the xpath data in the main file to scrape more and different data.
-
-Add me a start and fork the repository.
-
-This is a project under the [MIT License](https://opensource.org/licenses/MIT).
+The scraper will automatically login and scrape the data.
